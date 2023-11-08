@@ -1,0 +1,8 @@
+mykey = "alparslan-yeni-pair"
+ami = "ami-0889a44b331db0194"
+region = "us-east-1"
+instance_type = "t3a.medium"
+jenkins_server_secgr = "alp-petclinic-jenkins-server-secgr"
+jenkins-server-tag = "alp-Jenkins Server of Petclinic"
+jenkins-profile = "alp-petclinic-jenkins-server-profile"
+jenkins-role = "alp-petclinic-jenkins-server-role"
